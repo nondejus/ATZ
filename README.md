@@ -1,2 +1,0 @@
-# ATZ
-autonomous terrorist zone
